@@ -195,7 +195,7 @@
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "*Searching🌝 ..*",
+            "SEARCHING": "*Searching  🌝*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
@@ -203,7 +203,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Nissaram 👻```"
+            "DOWNLOADING": "```Nissaram  👻```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -229,7 +229,7 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "Updating..🤹",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*✅  Updated!*",
+            "UPDATED": "*☑️  Updated!*",
             "UPDATED_LOCAL": "*✅ Updated!*",
             "AFTER_UPDATE": "*JulieMwol Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
