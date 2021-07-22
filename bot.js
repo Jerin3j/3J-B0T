@@ -126,7 +126,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('🌈  Installing plugins...')
+            chalk.blueBright.italic('🌟  Installing plugins...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Julie Mwol working! 😍')
+            chalk.green.bold('3J B0T working! 💆')
         );
     });
     
@@ -240,8 +240,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~♥️🕊️______~ 𝕁𝕦𝕝𝕚𝕖𝕄𝕨𝕠𝕝 ~_____🕊️♥️~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '*🤓•••••🤹 3J B0T 🤹•••••🤓*' +
+                                    '\n\n*🤖 ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
