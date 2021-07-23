@@ -96,7 +96,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
 ----|----|----
 [Jerin3j](https://github.com/Jerin3j) | [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-| Nthg | Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+Nthg | Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
