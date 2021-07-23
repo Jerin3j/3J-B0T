@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Jerin3j">Jerin-3J</a> to make it 
 <a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jerin3j?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jerin3j/3J-B0T?color=blue&style=flat-square"></a>
 <a href="https://github.com/Jerin3j/3J-B0T/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jerin3j/3J-B0T?color=blue&style=flat-square"></a>
-<a href="https://github.com/Jerin3j/3J-B0T/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Jerin3j/3J-B0T/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jerin3j/3J-B0T?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/Jerin3j/PublicBot)
   </div>
     
 ## Setup
