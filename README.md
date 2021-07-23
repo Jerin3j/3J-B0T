@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://github.com/Jerin3j/JERIN-SER/blob/0161fb16309c2f13f0903629d7b7a687f993c329/tuxpi.com.1626457957.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="3JB0T" src="https://img.shields.io/badge/3JB0T-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
