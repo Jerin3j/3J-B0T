@@ -104,8 +104,7 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "```I AM 
-CODED BY JERIN 3J```.",
+            "description": "```I```.",
             "required": false,
             "value": "default"
         },
