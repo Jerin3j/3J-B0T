@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Jerin3j">Farhan-dqz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="https://github.com/Jerin3j">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jerin3j/3J-B0T)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/Jerin3j/3J-B0T
+$ cd 3J-B0T
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/Jerin3j/3J-B0T
+$ cd 3J-B0T
 $ chmod +x *
 $ npm i
 $ node qr.js
