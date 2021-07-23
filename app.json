@@ -106,11 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default,to change back.",
             "required": false,
-            "value": "```I AM ALIVE🧘
-
-HOW ARE YOU??😇
-
-CODED BY JERIN 3J```"
+            "value": "hhhhh"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
