@@ -104,7 +104,11 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
+            "description": "```I AM ALIVE🧘
+
+HOW ARE YOU??😇
+
+CODED BY JERIN 3J```.",
             "required": false,
             "value": "default"
         },
