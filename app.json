@@ -106,7 +106,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default,to change back.",
             "required": false,
-            "value": "```I AM ALIVE🧘                  HOW ARE YOU😇                 TYPE '.help' FOR BOT COMMANDS CODED BY JERIN 3J``` "
+            "value": "```I AM ALIVE🧘```\n\n```HOW ARE YOU😇 TYPE```/n/n```TYPE'.help' FOR BOT COMMANDS```/n/n```CODED BY JERIN 3J``` "
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
