@@ -104,10 +104,7 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "```I AM ALIVE🧘
-
-HOW ARE YOU??😇
-
+            "description": "```I AM 
 CODED BY JERIN 3J```.",
             "required": false,
             "value": "default"
