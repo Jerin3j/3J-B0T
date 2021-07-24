@@ -585,7 +585,7 @@ if (Config.WORKTYPE == 'private') {
             .outputOptions(["-y", "-vf", "unsharp=3:3:1.5"])
             .save('output.jpg')
             .on('end', async () => {
-                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'HERE IT IS 🥰'});
+                await message.sendMessage(fs.readFileSync('output.jpg'), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made By 3J 🙂'});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
