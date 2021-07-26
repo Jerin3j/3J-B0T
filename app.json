@@ -102,6 +102,7 @@
         "REMOVE_BG_API_KEY": {
             "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
             "required": false
+            "value": "D8w4uMFyrVXtQfepxVV2SVMT"
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default,to change back.",
