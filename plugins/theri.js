@@ -161,8 +161,7 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
             var im = await checkImAdmin(message)
             if (!im) return;
             if (us) return;
-            await message.client.groupRemove(message.jid, [message.data.participant]);         
-
+            await message.client.groupRemove(message.jid, [message.data.participant]);
             await message.client.sendMessage(message.jid,ldc, MessageType.text, {quoted: message.data })
 
         }
