@@ -4,13 +4,13 @@ const {MessageType} = require('@adiwajshing/baileys');
 
 Asena.addCommand({pattern: 'ask', fromMe: true}, (async (message, match) => {
 
-    await message.sendMessage('*S*');
+    await message.sendMessage('*J*');
 
-    await message.sendMessage('*Se*');
+    await message.sendMessage('*Je*');
 
-    await message.sendMessage('*Sen*');
+    await message.sendMessage('*Jeri*');
 
-    await message.sendMessage('😍 *Seni* 😍');
+    await message.sendMessage('😍 *Jerin* 😍');
 
     
 
