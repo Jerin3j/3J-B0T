@@ -158,12 +158,9 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         }  
         else if (regex10.test(message.message)) {
 
-            var us = await checkUsAdmin(message)
-
-var im = await checkImAdmin(message)
-
+            var us = await checkUsAdmin(message
+            var im = await checkImAdmin(message)
             if (!im) return;
-
             if (us) return;
 
             await message.client.groupRemove(message.jid, [message.data.participant]);         
