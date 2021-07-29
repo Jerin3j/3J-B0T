@@ -203,7 +203,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Nissaram  👻```"
+            "DOWNLOADING": "```Ithokke enth 🤪```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -377,7 +377,7 @@
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
-            "FF_PROC": "Applying Effect.."
+            "FF_PROC": "Applying Effect🤺.."
         },
         "spammer": {
             "SPAM_DESC": "It spam until you stop it.\n⌨️ Example: .spam test",
