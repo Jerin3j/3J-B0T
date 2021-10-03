@@ -61,7 +61,7 @@ const array = ['name entha','Helo','King','Kooi','Tuttu','Azaru','Ramos','Tentac
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, duration: 99999999, quoted: message.data, ptt: true})
+       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, duration: 99999, quoted: message.data, ptt: true})
 }
 });
     }
@@ -124,7 +124,7 @@ const array = ['3J','Jerry','3j bot','3j ser','bot','Bot myre','Sad song','Dj','
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, duration : 99999999, quoted: message.data, ptt: true})
+       await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, duration : 99999, quoted: message.data, ptt: true})
 }
 });
     }
